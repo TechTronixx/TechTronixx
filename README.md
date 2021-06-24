@@ -7,4 +7,4 @@
 
 
 ## Stats
-![statscard](https://github-readme-stats.vercel.app/api?username=TechTronixx&&show_icons=true&title_color=33C9FF&icon_color=33C9FF&text_color=daf7dc&bg_color=151515)
+![statscard](https://github-readme-stats.vercel.app/api?username=TechTronixx&&show_icons=true&title_color=33C9FF&icon_color=33C9FF&text_color=daf7dc&bg_color=FFFFFF00)
