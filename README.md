@@ -7,10 +7,10 @@
 
 
 ## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechTronixx&layout=compact&bg_color=FFFFFF00&title_color=33C9FF&text_color=008080)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechTronixx&layout=compact&bg_color=FFFFFF00&title_color=33C9FF&text_color=f0fafa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Stats
-![statscard](https://github-readme-stats.vercel.app/api?username=TechTronixx&&show_icons=true&title_color=33C9FF&icon_color=33C9FF&text_color=008080&bg_color=FFFFFF00)
+![statscard](https://github-readme-stats.vercel.app/api?username=TechTronixx&&show_icons=true&title_color=33C9FF&icon_color=33C9FF&text_color=f0fafa&bg_color=FFFFFF00)
 
 ## Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
