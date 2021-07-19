@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on CSS,HTML
 - 🌱 I’m currently learning Java,Python
-- 🤔 I’m looking for help with  AI Projects
+- 🤔 I’m looking for help with  AI-ML,Flutter,Dart
 - ⚡ Fun fact:  Over 90% of the world's currency is digital.
 
 
