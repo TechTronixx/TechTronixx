@@ -1,4 +1,4 @@
-### Hi there , Welcome to my CodeHub👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=2ED1DF&width=435&lines=Welcome+to+My+Portfolio!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on CSS,HTML
 - 🌱 I’m currently learning Java,Python
