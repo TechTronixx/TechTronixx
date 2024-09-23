@@ -81,8 +81,10 @@
 ## 
 <div align="center">
 <h1 align="left">Blogs!</h1>
+<a href="https://medium.com/@foxstot" target="_blank">
   <img align="center" src="https://www.svgrepo.com/show/54410/blog.svg" alt="medium" height="30" width="40" />
 </a>
+
 </div>
 
 ## 
