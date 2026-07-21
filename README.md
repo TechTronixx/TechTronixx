@@ -85,7 +85,7 @@
 <div align="center">
 <h1 align="left">Statistics</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechTronixx&show_icons=true&locale=en&layout=compact&text_color=f0fafa&bg_color=FFFFFF00&title_color=33C9FF" alt="techtronixx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TechTronixx&locale=en&layout=compact&text_color=9f9f9f&bg_color=00000000&title_color=33C9FF&hide_border=true" alt="techtronixx" /></p>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TechTronixx&theme=github-dark-blue)](https://git.io/streak-stats)
 
@@ -100,7 +100,7 @@
 
 <a href="https://twitter.com/awais_209" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awais_209" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/moahmmedawais/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed Awais" height="30" width="40" /></a>
-<a href="mailto:foxstot@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="foxstot@gmail.com" height="30" width="40" /></a>
+<a href="mailto:foxstot@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="foxstot@gmail.com" height="30" width="40" /></a>
 
 </div>
 
