@@ -15,9 +15,14 @@
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vite-646cff?style=flat&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun"/>
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Streamlit-ff4b4b?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
 <img src="https://img.shields.io/badge/Solana-9945ff?style=flat&logo=solana&logoColor=white" alt="Solana"/>
 <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/PowerShell-5391fe?style=flat&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -39,14 +44,15 @@
 
 ## Featured Projects
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [sol-launchpad](https://github.com/TechTronixx/sol-launchpad) | Solana launchpad for showcasing and launching on-chain projects | TypeScript, React |
-| [Lawnscape AI](https://github.com/TechTronixx/Lawnscape-ai) | Turns site photos into high-fidelity landscape proposals with AI | React, TypeScript, Krea AI |
-| [Formify](https://github.com/TechTronixx/Formify-FormGenerator) | AI-powered form generator that builds forms from a prompt | TypeScript, React |
-| [Apple Website Replica](https://github.com/TechTronixx/Apple-Website-Replica-Demo) | Pixel-perfect 1:1 replica of the apple.com hero experience | HTML, CSS |
-| [Custom-modelswitch](https://github.com/TechTronixx/Custom-modelswitch) | Terminal UI to point AI coding tools at a custom gateway | PowerShell |
-| [QuantBoard](https://github.com/TechTronixx/QuantBoard) | Cryptocurrency analysis dashboard | Python |
+| Project | Description | Tech | Live |
+| --- | --- | --- | --- |
+| [sol-launchpad](https://github.com/TechTronixx/sol-launchpad) | Solana launchpad for showcasing and launching on-chain projects | Next.js · Solana · shadcn/ui | [Demo](https://sol-launchpad.vercel.app/) |
+| [Lawnscape AI](https://github.com/TechTronixx/Lawnscape-ai) | Turns site photos into high-fidelity landscape proposals with AI | React · TypeScript · Krea AI | [Demo](https://lawnscape-ai.vercel.app/) |
+| [Formify](https://github.com/TechTronixx/Formify-FormGenerator) | AI-powered form generator that builds forms from a prompt | React · TypeScript · shadcn/ui | — |
+| [Pulse Terminal](https://github.com/TechTronixx/Pulse-Terminal) | Real-time crypto trading terminal with live order-book websockets | JavaScript · WebSocket | [Demo](https://pulse-terminal.vercel.app/) |
+| [QuantBoard](https://github.com/TechTronixx/QuantBoard) | Cryptocurrency analysis and technical-indicator dashboard | Python · Streamlit | [Demo](https://quantboard.streamlit.app/) |
+| [Apple Website Replica](https://github.com/TechTronixx/Apple-Website-Replica-Demo) | Pixel-perfect 1:1 replica of the apple.com hero experience | HTML · CSS | [Demo](https://demo1-apple.vercel.app/) |
+| [Custom-modelswitch](https://github.com/TechTronixx/Custom-modelswitch) | Terminal UI to point AI coding tools at a custom gateway | PowerShell | — |
 
 ## 
 
