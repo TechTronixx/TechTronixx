@@ -152,7 +152,7 @@
     <th align="left">Data Serialization</th>
     <td>
       <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
-      <img src="https://img.shields.io/badge/XML-000000?style=flat" alt="XML"/>
+      <img src="https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white" alt="XML"/>
       <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
     </td>
   </tr>
