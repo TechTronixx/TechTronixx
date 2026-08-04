@@ -106,7 +106,7 @@
     <th align="left">Cloud</th>
     <td>
       <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
     </td>
   </tr>
