@@ -90,54 +90,81 @@
 <div align="center">
 <h1 align="left">Tools & Platforms</h1>
 
-<h3>DevOps :</h3>
-<img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
-
-<h3>Cloud :</h3>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black" alt="AWS"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-
-<h3>AI & Automation :</h3>
-<img src="https://img.shields.io/badge/Agentic_Workflows-000000?style=flat" alt="Agentic Workflows"/>
-<img src="https://img.shields.io/badge/LLM_Integrations-000000?style=flat" alt="LLM Integrations"/>
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
-
-<h3>Ticketing & Monitoring :</h3>
-<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat" alt="Zabbix"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
-
-<h3>Communication & Collaboration :</h3>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-<img src="https://img.shields.io/badge/Webex-1F588C?style=flat&logo=ciscowebex&logoColor=white" alt="Cisco Webex"/>
-<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" alt="Zoom"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
-<img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce"/>
-
-<h3>FTP & Remote Access :</h3>
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" alt="FileZilla"/>
-<img src="https://img.shields.io/badge/WinSCP-4FA98F?style=flat" alt="WinSCP"/>
-<img src="https://img.shields.io/badge/PuTTY-000000?style=flat" alt="PuTTY"/>
-<img src="https://img.shields.io/badge/Windows_RDP-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows RDP"/>
-
-<h3>Data Serialization :</h3>
-<img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
-<img src="https://img.shields.io/badge/XML-000000?style=flat" alt="XML"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
-
-<h3>Operating Systems :</h3>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+<table align="center">
+  <tr>
+    <th align="left">DevOps</th>
+    <td>
+      <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab CI/CD"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Cloud</th>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">AI & Automation</th>
+    <td>
+      <img src="https://img.shields.io/badge/Agentic_Workflows-000000?style=flat" alt="Agentic Workflows"/>
+      <img src="https://img.shields.io/badge/LLM_Integrations-000000?style=flat" alt="LLM Integrations"/>
+      <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Monitoring</th>
+    <td>
+      <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat" alt="Zabbix"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Communication</th>
+    <td>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Webex-1F588C?style=flat&logo=ciscowebex&logoColor=white" alt="Cisco Webex"/>
+      <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white" alt="Zoom"/>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack"/>
+      <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white" alt="Microsoft Teams"/>
+      <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white" alt="Salesforce"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">FTP & Remote Access</th>
+    <td>
+      <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=filezilla&logoColor=white" alt="FileZilla"/>
+      <img src="https://img.shields.io/badge/WinSCP-4FA98F?style=flat" alt="WinSCP"/>
+      <img src="https://img.shields.io/badge/PuTTY-000000?style=flat" alt="PuTTY"/>
+      <img src="https://img.shields.io/badge/Windows_RDP-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows RDP"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Data Serialization</th>
+    <td>
+      <img src="https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white" alt="YAML"/>
+      <img src="https://img.shields.io/badge/XML-000000?style=flat" alt="XML"/>
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" alt="JSON"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
+      <img src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 
