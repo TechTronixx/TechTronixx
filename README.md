@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=550&pause=1000&width=435&lines=Welcome+To+My+TechHub)](https://git.io/typing-svg)
 
@@ -184,6 +184,12 @@
 ##  
 
 <div align="center">
+<!--ðŸ’¬ðŸƒMEMESTITLE / ðŸŒWEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/vKOQi1L.gif" height="30" width="150">
+<!--ðŸƒMEMEPHOTOS / ðŸŒWEBSITE: https://github.com/trinib/Subreddit-Memes -->
+<p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="400px"/>
 <h1 align="left">Connect with me!</h1>
 
 <a href="https://twitter.com/awais_209" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awais_209" height="30" width="40" /></a>
